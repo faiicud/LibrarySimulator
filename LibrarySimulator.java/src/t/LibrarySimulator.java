@@ -73,7 +73,7 @@ public class LibrarySimulator {
                             // View Current Borrowed Books
                             currentMember.viewBorrowedCount(); // الكائن يقوم بالطباعة وتحديث الإحصائيات
                             break;
-
+   
                         case 2:
                             // Borrowing a book
                             currentMember.borrowOne(); // الكائن يقوم بكل شيء: التحقق، الخصم، تحديث الإحصائيات
